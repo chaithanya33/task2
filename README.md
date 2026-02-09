@@ -12,3 +12,8 @@ commands executed status in system manager
 
 <img width="1459" height="544" alt="image" src="https://github.com/user-attachments/assets/578f1325-6e0b-4fc4-bb81-ae2ec51a1ca2" />
 
+terraform state file upload <img width="1730" height="688" alt="Screenshot 2026-02-09 191454" src="https://github.com/user-attachments/assets/67c872fe-7388-4092-b1bb-9adb2d49327c" />
+<img width="1730" height="688" alt="Screenshot 2026-02-09 191454" src="https://github.com/user-attachments/assets/67c872fe-7388-4092-b1bb-9adb2d49327c" />
+in S3
+
+
